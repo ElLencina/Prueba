@@ -4,9 +4,8 @@ public class hola_mundo {
 
 	public static void main(String[] args) {
 
-		System.out.println("hola git :) con Mario");
+		System.out.println("hola git :) con Mario y Sebastian");
 
-		System.out.println("hola git :) hola con Sebastian");
 
 
 	}
