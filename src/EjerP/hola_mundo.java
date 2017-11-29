@@ -6,7 +6,7 @@ public class hola_mundo {
 
 		System.out.println("hola git :) con Mario");
 
-		System.out.println("hola git :) con Sebastian");
+		System.out.println("hola git :) hola");
 
 
 	}
